@@ -72,3 +72,4 @@ Contributions to SmartAdaptive are welcome and appreciated! We value community i
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/ludo53/SmartAdaptive/blob/main/LICENSE) file for details.
+.
